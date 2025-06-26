@@ -1,0 +1,5 @@
+﻿  mainDriver.cpp
+c:\users\blitz\source\repos\solfinalproject\solfinalproject\solfinalproject\book.h(78): warning C4005: 'INFINITY': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.19041.0\ucrt\corecrt_math.h(88): note: see previous definition of 'INFINITY'
+c:\users\blitz\source\repos\solfinalproject\solfinalproject\solfinalproject\maindriver.cpp(142): warning C4551: function call missing argument list
+  SOLfinalProject.vcxproj -> C:\Users\blitz\source\repos\SOLfinalProject\SOLfinalProject\Debug\SOLfinalProject.exe
